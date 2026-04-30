@@ -1,1 +1,1 @@
-It is an repositoryy for GITHUB ACTIONS
+It is an repositoryy for GITHUB ACTIONS: 
